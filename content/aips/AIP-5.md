@@ -77,7 +77,7 @@ Here is an analysis based on Aave’s Asset Risk Framework 3 to quantify CRV’s
 ## CRV’s Overall Risk is B-
 
 <p align="center">
-  <img width="400px" src="https://aws1.discourse-cdn.com/standard21/uploads/aave/original/1X/a381a8ece9bf0c2bba9b971856320c4d0e5815b4.png" />
+  <img src="https://aws1.discourse-cdn.com/standard21/uploads/aave/original/1X/a381a8ece9bf0c2bba9b971856320c4d0e5815b4.png" />
 </p>
 
 The table below shows the key metrics used for the analysis as well as the risk scores using data from CoinGecko as of 15/12/2020
