@@ -99,7 +99,13 @@ CRV’s risk profile is close to YFI’s leading to the same model parameters
 - Liquidation Threshold 55%
 - Liquidation Bonus 15%
 - Reserve Factor 20%
-- Variable Interest Rate Model
+
+## Variable Interest Rate Model
+
+<p align="center">
+  <img src="https://i.imgur.com/chSyDxc.png" />
+</p>
+
 
 CRV fits the profile of a collateral asset, with the need for a conservative borrow rate model with a low optimal utilisation to protect collateral liquidity
 
